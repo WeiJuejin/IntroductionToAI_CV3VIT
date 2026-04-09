@@ -1,0 +1,52 @@
+[
+  {
+    "file": "class_0_clear_sample_1_scene_20250402000000_r192_c1344.png",
+    "sample_index": 1,
+    "scene": "20250402000000",
+    "row_start": 192,
+    "col_start": 1344,
+    "true_label": "Clear",
+    "pred_label": "Clear",
+    "pred_confidence": 0.9718005657196045
+  },
+  {
+    "file": "class_4_ice_sample_20_scene_20250402000000_r320_c2048.png",
+    "sample_index": 20,
+    "scene": "20250402000000",
+    "row_start": 320,
+    "col_start": 2048,
+    "true_label": "Ice",
+    "pred_label": "Ice",
+    "pred_confidence": 0.9468121528625488
+  },
+  {
+    "file": "class_2_supercooled_sample_65_scene_20250402000000_r576_c1344.png",
+    "sample_index": 65,
+    "scene": "20250402000000",
+    "row_start": 576,
+    "col_start": 1344,
+    "true_label": "SuperCooled",
+    "pred_label": "SuperCooled",
+    "pred_confidence": 0.9497140645980835
+  },
+  {
+    "file": "class_1_water_sample_88_scene_20250402000000_r704_c1728.png",
+    "sample_index": 88,
+    "scene": "20250402000000",
+    "row_start": 704,
+    "col_start": 1728,
+    "true_label": "Water",
+    "pred_label": "Water",
+    "pred_confidence": 0.9810681939125061
+  },
+  {
+    "file": "class_3_mixed_sample_425_scene_20250402000000_r2624_c1216.png",
+    "sample_index": 425,
+    "scene": "20250402000000",
+    "row_start": 2624,
+    "col_start": 1216,
+    "true_label": "Mixed",
+    "pred_label": "Mixed",
+    "pred_confidence": 0.9651966691017151
+  }
+]
