@@ -1,0 +1,82 @@
+[
+  {
+    "file": "class_3_cat_pred_3_cat_sample_000.png",
+    "true_label": 3,
+    "true_name": "cat",
+    "pred_label": 3,
+    "pred_name": "cat",
+    "pred_confidence": 0.41138580441474915
+  },
+  {
+    "file": "class_8_ship_pred_8_ship_sample_001.png",
+    "true_label": 8,
+    "true_name": "ship",
+    "pred_label": 8,
+    "pred_name": "ship",
+    "pred_confidence": 0.8685197830200195
+  },
+  {
+    "file": "class_0_airplane_pred_0_airplane_sample_002.png",
+    "true_label": 0,
+    "true_name": "airplane",
+    "pred_label": 0,
+    "pred_name": "airplane",
+    "pred_confidence": 0.5651729702949524
+  },
+  {
+    "file": "class_6_frog_pred_6_frog_sample_003.png",
+    "true_label": 6,
+    "true_name": "frog",
+    "pred_label": 6,
+    "pred_name": "frog",
+    "pred_confidence": 0.8013819456100464
+  },
+  {
+    "file": "class_1_automobile_pred_1_automobile_sample_004.png",
+    "true_label": 1,
+    "true_name": "automobile",
+    "pred_label": 1,
+    "pred_name": "automobile",
+    "pred_confidence": 0.6871941089630127
+  },
+  {
+    "file": "class_9_truck_pred_9_truck_sample_005.png",
+    "true_label": 9,
+    "true_name": "truck",
+    "pred_label": 9,
+    "pred_name": "truck",
+    "pred_confidence": 0.9426942467689514
+  },
+  {
+    "file": "class_5_dog_pred_7_horse_sample_006.png",
+    "true_label": 5,
+    "true_name": "dog",
+    "pred_label": 7,
+    "pred_name": "horse",
+    "pred_confidence": 0.5965195298194885
+  },
+  {
+    "file": "class_7_horse_pred_5_dog_sample_007.png",
+    "true_label": 7,
+    "true_name": "horse",
+    "pred_label": 5,
+    "pred_name": "dog",
+    "pred_confidence": 0.40384095907211304
+  },
+  {
+    "file": "class_4_deer_pred_0_airplane_sample_008.png",
+    "true_label": 4,
+    "true_name": "deer",
+    "pred_label": 0,
+    "pred_name": "airplane",
+    "pred_confidence": 0.6027470827102661
+  },
+  {
+    "file": "class_2_bird_pred_2_bird_sample_009.png",
+    "true_label": 2,
+    "true_name": "bird",
+    "pred_label": 2,
+    "pred_name": "bird",
+    "pred_confidence": 0.5993936061859131
+  }
+]
